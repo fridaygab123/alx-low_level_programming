@@ -3,7 +3,8 @@
 /**
 * print_alphabets -> prints the lowercase alphabets
 */
-
+	Return: Always 0
+/*
 void print_alphabet_x10(void)
 {
 	int j;
